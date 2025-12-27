@@ -71,6 +71,8 @@ npx expo start
 
 # Scan the QR code with the Expo Go app on your phone.
 
+---
+
 ### 2. Admin Dashboard
 # Go to the WebDashboard folder.
 
