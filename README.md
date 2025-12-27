@@ -59,7 +59,7 @@ Make sure you have Node.js installed.
 
 ```bash
 # Clone this repository
-git clone [https://github.com/](https://github.com/)[thebitbros]/RoadSafetyReporter.git
+git clone https://github.com/thebitbros/The_Bit_Bros.git
 
 # Go into the app folder
 cd RoadSafetyReporter
