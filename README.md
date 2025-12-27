@@ -10,7 +10,7 @@
 
 ## 📱 Download the App (APK)
 We have built a working prototype! You can download and test the Android App directly from here:  
-👉 **[Click Here to Download APK (Google Drive Link)](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+👉 **[Click Here to Download APK (Google Drive Link)](https://drive.google.com/drive/folders/1k-0_mjnLqTb-VbkIcqr63kr-kuM4l87Z?usp=sharing)**
 
 *(Note: Since this is a hackathon prototype, your phone might show an "Unsafe App" warning during installation. Please ignore it—it is safe to install!)*
 
