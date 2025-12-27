@@ -73,17 +73,17 @@ npx expo start
 
 ---
 
-### 2. Admin Dashboard
+**### 2. Admin Dashboard**
 # Go to the WebDashboard folder.
 
 # Simply open the index.html file in Chrome or any browser.
 
 # You will see the reports appearing there live!
 
-## 👥 Team Members
+**### 👥 Team Members**
 
-# Mohammad Zishan Bhoyaniwala (Team Leader)
+- Mohammad Zishan Bhoyaniwala (Team Leader)
 
-# Nikhil Parmar (Co-Team Leader)
+- Nikhil Parmar (Co-Team Leader)
 
 ❤️ Built for ImpactThon @KSV 2025-26
