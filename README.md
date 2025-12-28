@@ -46,10 +46,7 @@ The data (Photo + Location) is instantly sent to an Admin Dashboard where author
 ---
 
 ## 📸 Screenshots
-![Screenshot_2025-12-28-11-00-42-09_da2750305817db4ed614531f56fffa59](https://github.com/user-attachments/assets/12b6082e-3cb9-462e-8f4e-bb7c162bb9d5)
-![Screenshot_2025-12-28-11-00-47-11_da2750305817db4ed614531f56fffa59](https://github.com/user-attachments/assets/2adba68b-94eb-402f-ba3c-094495f767f7)
-![Screenshot_2025-12-28-11-01-09-57_da2750305817db4ed614531f56fffa59](https://github.com/user-attachments/assets/bac291d5-1a0b-4660-a258-99c4539c5208)
-![Screenshot_2025-12-28-11-04-37-82_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/7a76cbfd-42e5-4eb6-9d9c-3aac8adba2b9)
+![Screenshot_2025-12-28-11-00-42-09_da2750305817db4ed614531f56fffa59](https://github.com/user-attachments/assets/12b6082e-3cb9-462e-8f4e-bb7c162bb9d5) ![Screenshot_2025-12-28-11-00-47-11_da2750305817db4ed614531f56fffa59](https://github.com/user-attachments/assets/2adba68b-94eb-402f-ba3c-094495f767f7) ![Screenshot_2025-12-28-11-01-09-57_da2750305817db4ed614531f56fffa59](https://github.com/user-attachments/assets/bac291d5-1a0b-4660-a258-99c4539c5208) ![Screenshot_2025-12-28-11-04-37-82_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/7a76cbfd-42e5-4eb6-9d9c-3aac8adba2b9)
 
 
 ---
